@@ -62,4 +62,3 @@ style.configure("Message.TLabel", background=COLOUR_LIGHT_BACKGROUND_2)
 
 root.mainloop()
 
-print("Honk Honk")
